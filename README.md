@@ -2,7 +2,7 @@
 
 1. Clone o repositorio
    ```sh
-   git clone https://github.com/MikaelSantos1/desafio-parafuzo.git](https://github.com/MikaelSantos1/Teste-Frontend-InCicle
+   git clone https://github.com/MikaelSantos1/Teste-Frontend-InCicle
    ```
 2. Instale as  depencias
    ```sh
