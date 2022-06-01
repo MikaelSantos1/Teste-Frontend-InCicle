@@ -6,11 +6,11 @@
    ```
 2. Instale as  depencias
    ```sh
-   yarn  ou npm install
+   npm install
    ```
 3. Inicie o projeto
   ```sh
-   yarn start  ou npm run dev
+    ou npm run dev
    ```
 4. Acesse localhost:3000
 
