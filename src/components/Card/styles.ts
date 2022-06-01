@@ -40,6 +40,7 @@ export const InvitedPeople = styled.span`
     text-decoration:underline;
     line-height: 12px;
     padding:4px;
+    cursor: pointer;
 
 `
 
@@ -49,7 +50,6 @@ export const Type= styled.p<Type>`
     color:${({theme})=>theme.colors.text};  
     line-height: 12px;
     padding:4px;
-
     ${({ type }) => type === 'event' && css`
      color: '#333333';
      font-weight:${({theme})=>theme.fonts.bold}; 
