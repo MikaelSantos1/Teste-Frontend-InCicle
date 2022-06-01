@@ -10,7 +10,7 @@
    ```
 3. Inicie o projeto
   ```sh
-    ou npm run dev
+    npm run dev
    ```
 4. Acesse localhost:3000
 
