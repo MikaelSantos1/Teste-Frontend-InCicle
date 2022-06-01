@@ -1,12 +1,29 @@
-# Teste-Frontend-InCicle
+### Instalação
 
-#Tecnologias e ferramentas utilizadas:
+1. Clone o repositorio
+   ```sh
+   git clone https://github.com/MikaelSantos1/desafio-parafuzo.git](https://github.com/MikaelSantos1/Teste-Frontend-InCicle
+   ```
+2. Instale as  depencias
+   ```sh
+   yarn  ou npm install
+   ```
+3. Inicie o projeto
+  ```sh
+   yarn start  ou npm run dev
+   ```
+4. Acesse localhost:3000
 
-Node v16.14.0
 
-React
-Typescript
-Styled-components
-Axios
+### 🚀 Tecnologias e ferramentas
+* Node v16.14.0
+* ReactJs
+* Typescript
+* Hooks
+* MUI
+* Axios                                                                                        
+* Styled-components
 
-Feito com ❤️ por Mikael Santos.
+
+Feito com ❤ por Mikael Santos
+email: mikaelsantos120@outlook.comm
